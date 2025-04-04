@@ -3,6 +3,8 @@
 Welcome to my personal portfolio! 🚀  
 This website showcases my work, skills, and projects.
 
+![Portfolio Preview](images/pweb.png)
+
 ## 🌐 Live Website
 [Click to view my portfolio](https://kimaka254.github.io/portfolio-plp/)  
 
