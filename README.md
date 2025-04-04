@@ -4,7 +4,7 @@ Welcome to my personal portfolio! 🚀
 This website showcases my work, skills, and projects.
 
 ## 🌐 Live Website
-[Click to view my portfolio](https://yourusername.github.io/portfolio/)  
+[Click to view my portfolio](https://kimaka254.github.io/portfolio-plp/)  
 
 ## 🛠️ Built With
 - HTML5
